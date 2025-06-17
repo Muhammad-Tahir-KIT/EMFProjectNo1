@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="ASCII"?>
+<conference:Conference xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:conference="http://www.example.com/conference" name="EclipseCon 2023">
+  <Speakers name="Jane Doe"/>
+  <Speakers name="John Smith"/>
+</conference:Conference>
